@@ -13,5 +13,4 @@ end
 jet_product = Product.new('test123', 'test')
 walmart_product = Product.new('testABC', 'iphone')
 
-jet_product.output_display_name
 walmart_product.output_display_name
