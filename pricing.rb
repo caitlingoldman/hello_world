@@ -8,6 +8,3 @@ class Pricing
     @shelf_price - @instant_savings
   end
 end
-
-october_pricing = Pricing.new(100.00, 50.00)
-puts october_pricing.net_price
