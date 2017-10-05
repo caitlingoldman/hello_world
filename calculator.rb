@@ -1,8 +1,5 @@
 class Calculator
   def add(number_1, number_2)
-    puts 'hello'
-    number_1 = number_1 + 5
-
     number_1 + number_2
   end
 
